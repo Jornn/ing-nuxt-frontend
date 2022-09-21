@@ -8658,8 +8658,8 @@ vuetify-loader@^1.4.3:
     loader-utils "^1.2.0"
 
 vuetify@^2.2.4:
-  version "2.2.7"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.2.7.tgz#d04bec542095be3e4c72b6cdd857f5ca8592fc95"
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.10.tgz#b86cd7a97bf8cd3828a72c349795b5b3c539ebc2"
 
 vuex@^3.1.2:
   version "3.1.2"
